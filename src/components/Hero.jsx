@@ -65,7 +65,7 @@ export default function Hero() {
         <div className="hero-inner">
           <div className="hero-copy">
             <h1 className="hero-title mt-0">Foster personal profile page</h1>
-            <p className="hero-paragraph">Create a professional online presence with ease. Showcase your skills, experience, and achievements with a stunning, customizable profile page.</p>
+            <p className="hero-paragraph">Create a professional profile page Showcase my skills, experience, and achievements with a stunning, customizable profile page.</p>
             <div className="hero-cta"><a className="button button-primary" href="#">Pre order now</a><a
               className="button" href="#">Get in touch</a></div>
           </div>
