@@ -64,11 +64,10 @@ export default function Hero() {
       <div className="container">
         <div className="hero-inner">
           <div className="hero-copy">
-            <h1 className="hero-title mt-0">Our Landing template for startups</h1>
-            <p className="hero-paragraph">Our landing page template works on all devices, so you only have
-              to set it up once, and get beautiful results forever.</p>
-            <div className="hero-cta"><a className="button button-primary" href="#">Pre order now</a><a
-              className="button" href="#">Get in touch</a></div>
+            <h1 className="hero-title mt-0">Foster personal profile page</h1>
+            <p className="hero-paragraph">Create a professional profile. Showcase my skills, experience, and achievements with a stunning, customizable profile page.</p>
+            <div className="hero-cta"><a className="button button-primary" target="_blank" href="https://github.com/revfoster">view project</a><a
+              className="button" href="https://github.com/revfoster">Get in touch</a></div>
           </div>
           <div className="hero-figure anime-element">
             <svg className="placeholder" width="528" height="396" viewBox="0 0 528 396">
